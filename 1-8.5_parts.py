@@ -1995,7 +1995,3 @@
 # print(round(rnd(), 2))
 
 from math import floor as fl, ceil as cl, pi
-
-
-def ff(d):
-    print(d)
